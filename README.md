@@ -1,5 +1,27 @@
-# V-learn-project
+# Node.js-Register-Login-App
 
-Our project is online education platform where students can find resources about particular topic and with recommendation of related topics 
- 	We use recommendation system to recommend the content to students based on top rated content.  
- It is single page application based MEAN stack where we used mongoDb as backend and Angular as front end.
+This is a user login and registration app using Node.js, Express, Mongoose and express-sessions.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. :heart:
+
+### Prerequisites
+
+You need to have installed Node.js, NPM and MongoDB in your System.
+
+### Installing
+```
+npm install
+```
+
+### To Run
+```
+nodemon server.js
+```
+
+Code is Running on 
++ http://localhost:3000/
+
+:heart_eyes: Thanks
+
